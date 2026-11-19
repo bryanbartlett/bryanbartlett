@@ -11,7 +11,7 @@ Boston, MA · [bryanbartlett.com](https://bryanbartlett.com) · [LinkedIn](https
 - **A church's whole week, from one PDF.** The Immanuel Community Church bulletin goes in. The website, the sermon images and the live lyric reader for Sunday come out. The church uses it every week. [app.immanuelcommchurch.org](https://app.immanuelcommchurch.org)
 - **mrwilson.** A tool that turns a LinkedIn post into a 30-second film, with the same characters from episode to episode. It stops after each step and waits for my go. [Films](https://www.youtube.com/@mrwilsonsays) · [PyPI](https://pypi.org/project/mrwilson/)
 - **YesterYears.** Home photos and video in, a memorial film for the family out. Thirteen screens, and the ones that matter wait for a person. [How it works](https://bryanbartlett.com/lab)
-- **Small tools I use and share.** [ats-resume-check](https://github.com/bryanbartlett/ats-resume-check) finds the résumé PDFs an applicant tracking system cannot read.
+- **Small tools I use and share.** [ats-resume-check](https://github.com/bryanbartlett/ats-resume-check) finds the résumé PDFs an applicant tracking system cannot read. [llm-fallback](https://github.com/bryanbartlett/llm-fallback) keeps a tool working when Claude is down by asking Gemini, and says which model answered.
 
 How I keep AI work on track, with diagrams from real builds: [bryanbartlett.com/lab](https://bryanbartlett.com/lab)
 
