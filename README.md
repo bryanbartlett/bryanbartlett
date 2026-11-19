@@ -24,10 +24,12 @@ Fifteen years of brand and content for marketing technology came first. Now I bu
 
 ### Open tools
 
+Published under [**B2B Content Systems**](https://github.com/b2b-content-systems) on GitHub.
+
 | Tool | What it does | Tests |
 |---|---|---|
-| [**ats-resume-check**](https://github.com/bryanbartlett/ats-resume-check) | Finds the résumé PDFs an applicant tracking system cannot read, before you send them | [![tests](https://github.com/bryanbartlett/ats-resume-check/actions/workflows/tests.yml/badge.svg)](https://github.com/bryanbartlett/ats-resume-check/actions/workflows/tests.yml) |
-| [**llm-fallback**](https://github.com/bryanbartlett/llm-fallback) | Keeps a tool working when Claude is down by asking Gemini, and says which model answered | [![tests](https://github.com/bryanbartlett/llm-fallback/actions/workflows/tests.yml/badge.svg)](https://github.com/bryanbartlett/llm-fallback/actions/workflows/tests.yml) |
+| [**ats-resume-check**](https://github.com/b2b-content-systems/ats-resume-check) | Finds the résumé PDFs an applicant tracking system cannot read, before you send them | [![tests](https://github.com/b2b-content-systems/ats-resume-check/actions/workflows/tests.yml/badge.svg)](https://github.com/b2b-content-systems/ats-resume-check/actions/workflows/tests.yml) |
+| [**llm-fallback**](https://github.com/b2b-content-systems/llm-fallback) | Keeps a tool working when Claude is down by asking Gemini, and says which model answered | [![tests](https://github.com/b2b-content-systems/llm-fallback/actions/workflows/tests.yml/badge.svg)](https://github.com/b2b-content-systems/llm-fallback/actions/workflows/tests.yml) |
 
 ### How every system runs
 
